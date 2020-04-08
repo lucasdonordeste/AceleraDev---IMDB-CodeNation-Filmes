@@ -45,3 +45,6 @@ Neste desafio, você vai praticar os seus conhecimentos em:
 ## Layout:
 
 ![](https://codenation-challenges.s3-us-west-1.amazonaws.com/react-11/image.png)
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/782f60de-06c2-4486-a15b-b1aa8dfd4b25/deploy-status)](https://app.netlify.com/sites/imdb-codenationfilmes/deploys)
